@@ -1,4 +1,4 @@
-module leetgo
+module github.com/ogogoleg/leetgo
 
 go 1.18
 
