@@ -4,7 +4,7 @@ import (
 	//"fmt"
 	//problem_1 "ogogoleg/leetgo/problems/1"
 	"fmt"
-	problem_13 "leetgo/problems/13"
+	problem_13 "github.com/ogogoleg/leetgo/problems/13"
 )
 
 func main() {
